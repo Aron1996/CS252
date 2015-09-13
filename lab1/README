@@ -1,0 +1,21 @@
+Lab 1
+  1. pwcheck.sh
+  2. backup.sh
+
+Written by: Himal King (kingh@purdue.edu)
+Programs are based off of the instructions at: https://www.cs.purdue.edu/homes/cs252/lab1-password/
+
+1. pwcheck.sh <passwordfile>
+  pwcheck.sh takes in a password in a file(passwordfile) and using an algorithm provides a score for the password
+  The file should be a .txt file and the password should be between 6 and 32 characters in length to provide a valid score
+  All features should work for this program as stated by the link above 
+  The password will only look at the following characters [A-Za-z0-9#$+%@], and other characters will not influence the score
+
+2. backup.sh <file> <backupdir> <interval-secs> <max-backups>
+  backup.sh will backup the file (file) into a backup directory (backupdir) if there was a modification.
+  It will check every (interval-secs) for a modification and if there was a change, using the diff command, then a copy of the file will be saved into the backup directory.
+  It will save up to the maximum number of backup specified by (max-backups). After max-backups is reached then the oldest file will be deleted and replaced with the newest copy.
+  When a new backup is made there will be a email sent to "$USER"@purdue.edu with the output of the diff command 
+  The files will backed up with the format "YYYY-MM-DD-hh-mm-ss-filename"
+
+Any additional questions can be directed to kingh@purdue.edu

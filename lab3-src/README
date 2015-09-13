@@ -1,0 +1,14 @@
+Part 1 Explination:
+	The output of thr1.cc was a seemingly random list of "A","B" and "C". 
+	The reason that thr2 only outputed "C" is because the call to the print function was called before the threads, that would have printed out "A" and "B", were made. And the print function was an inifinite loop so the code would have never gotten to creading the new threads.
+
+Part 3 
+	Table:
+				System Time		User Time		Real Time	
+	mutex			0m 0.000s		0m 0.080s		0m 0.085s
+	spin w\ thr_yield	0m 0.160s		0m 0.444s		0m 0.317s
+	spin w\o thr_yield	0m 0.000s		0m 1.932s		0m 1.016s
+	
+	1. Thread Yeild gives the threads spot in line up to the next thread so that thread is put at the back of the Queue and has to wait for its next turn in line. This causes more wait time for the user. 
+
+	2. The thread takes no system time with the mutex locks because the threads are locked with the user. But whith thread yield there is system time taken up because of the check for the thread to be done in the queue.

@@ -1,0 +1,3 @@
+setenv A hello
+setenv B world
+echo ${A} ${B}

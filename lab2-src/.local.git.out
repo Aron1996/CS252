@@ -1,0 +1,2420 @@
+[master (root-commit) 51a2df0] Commit Shell
+ 6 files changed, 551 insertions(+)
+ create mode 100755 cat_grep.cc
+ create mode 100755 command.cc
+ create mode 100755 command.h
+ create mode 100755 ctrl-c.cc
+ create mode 100755 regular.cc
+ create mode 100644 y.tab.h
+[master cbebdcb] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 33c086b] Commit Shell
+ 2 files changed, 146 insertions(+)
+ create mode 100755 shell.l
+ create mode 100755 shell.y
+[master 4986c4b] Commit Shell
+ 5 files changed, 41 insertions(+), 4 deletions(-)
+[master e3057c3] Commit Shell
+ 1 file changed, 15 insertions(+), 2 deletions(-)
+[master 8ffbaa8] Commit Shell
+ 1 file changed, 9 insertions(+), 4 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 165aa1b] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 4b71ed5] Commit Shell
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+[master 5e71d1e] Commit Shell
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+[master b3d55a2] Commit Shell
+ 1 file changed, 21 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 825f671] Commit Shell
+ 1 file changed, 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 67baa2e] Commit Shell
+ 1 file changed, 7 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 65e7ba7] Commit Shell
+ 2 files changed, 1 insertion(+), 6 deletions(-)
+[master 95940f6] Commit Shell
+ 1 file changed, 2 insertions(+)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master d3cfada] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 7a48e09] Commit Shell
+ 1 file changed, 12 insertions(+), 11 deletions(-)
+[master ca7c0ab] Commit Shell
+ 1 file changed, 1 deletion(-)
+[master 73ef5f5] Commit Shell
+ 1 file changed, 7 insertions(+), 4 deletions(-)
+[master 5bb9ffb] Commit Shell
+ 3 files changed, 4 insertions(+)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 257572d] Commit Shell
+ 1 file changed, 9 insertions(+), 11 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master fba578f] Commit Shell
+ 1 file changed, 60 insertions(+), 3 deletions(-)
+[master 39f9351] Commit Shell
+ 1 file changed, 27 insertions(+), 6 deletions(-)
+[master f591456] Commit Shell
+ 1 file changed, 8 insertions(+), 8 deletions(-)
+[master 9208914] Commit Shell
+ 2 files changed, 8 insertions(+), 3 deletions(-)
+[master f8708b8] Commit Shell
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master d8f5ae6] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 3029bc7] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 1ca384e] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f856451] Commit Shell
+ 1 file changed, 11 insertions(+)
+[master cdfe316] Commit Shell
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master a880f43] Commit Shell
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+[master a419eb7] Commit Shell
+ 1 file changed, 11 deletions(-)
+[master 7f14001] Commit Shell
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master b325bf5] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 3f1576f] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master e0b7a44] Commit Shell
+ 1 file changed, 13 insertions(+), 14 deletions(-)
+[master c2134e8] Commit Shell
+ 1 file changed, 6 insertions(+), 3 deletions(-)
+[master 00ad50a] Commit Shell
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+[master 6481857] Commit Shell
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+[master f15990c] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 64c664d] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 38aa5aa] Commit Shell
+ 1 file changed, 12 insertions(+)
+[master 4df6255] Commit Shell
+ 1 file changed, 14 insertions(+), 11 deletions(-)
+[master 8768ecc] Commit Shell
+ 1 file changed, 17 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master f9d47ff] Commit Shell
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+[master fdc2e6f] Commit Shell
+ 1 file changed, 2 insertions(+)
+[master 3be9153] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c829bd9] Commit Shell
+ 1 file changed, 5 insertions(+)
+[master 0432562] Commit Shell
+ 1 file changed, 31 insertions(+), 8 deletions(-)
+[master 92f3439] Commit Shell
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 5668a01] Commit Shell
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 7072ee2] Commit Shell
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master dd75540] Commit Shell
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 3ca03ec] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master fd396ca] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master c75c33d] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 61ade93] Commit Shell
+ 1 file changed, 19 insertions(+)
+[master 171cb2f] Commit Shell
+ 1 file changed, 12 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master e5dfd86] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 59c0727] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master af25e49] Commit Shell
+ 1 file changed, 2 insertions(+)
+[master 1d5f3bd] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master adeb772] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1e9b175] Commit Shell
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master e011dcc] Commit Shell
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master 95bd8d0] Commit Shell
+ 2 files changed, 29 insertions(+), 2 deletions(-)
+[master 24c24a6] Commit Shell
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+[master 8a21155] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 024bc23] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a8579e9] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ecb5781] Commit Shell
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master a0d239d] Commit Shell
+ 1 file changed, 4 deletions(-)
+[master d72f4b6] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a46027f] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a84d38e] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0eda90e] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a043a6e] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 13040e8] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 09a7a38] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3caa724] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1ec1e09] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 10b3ded] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2b4aeb1] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master efa0b2b] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 70080f1] Commit Shell
+ 3 files changed, 22 insertions(+), 4 deletions(-)
+[master 333e103] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5a45e3e] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c08c0a3] Commit Shell
+ 1 file changed, 32 insertions(+), 9 deletions(-)
+[master 329efcb] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b83ccc7] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 525ae82] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master aeebcc7] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2dc48a7] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 5f95fa2] Commit Shell
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+[master f4c96b7] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5ba3ea5] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 57a1207] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6f680f8] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f4c5fa1] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 608d5a3] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 62a4181] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 52feb4d] Commit Shell
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master db7fba8] Commit Shell
+ 1 file changed, 3 insertions(+)
+[master 3372247] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f41beee] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d70e8f6] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 98a876b] Commit Shell
+ 1 file changed, 19 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 60b17a9] Commit Shell
+ 1 file changed, 4 insertions(+), 7 deletions(-)
+[master e09d1d0] Commit Shell
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+[master 15d2a1f] Commit Shell
+ 1 file changed, 15 insertions(+), 14 deletions(-)
+[master 1fc9728] Commit Shell
+ 1 file changed, 17 insertions(+), 13 deletions(-)
+[master bf4f7d8] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f3ea539] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ab5e707] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 884b89b] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 8c75a38] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3bed823] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ff46e51] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 32af26a] Commit Shell
+ 1 file changed, 6 insertions(+), 10 deletions(-)
+[master 1ef58c7] Commit Shell
+ 1 file changed, 14 insertions(+), 2 deletions(-)
+[master f610a4b] Commit Shell
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 758d0c3] Commit Shell
+ 1 file changed, 10 insertions(+), 13 deletions(-)
+[master 7401637] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 7d97950] Commit Shell
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master 7483a08] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master cd95fd0] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 93b2fad] Commit Shell
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 39f5a79] Commit Shell
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+[master f27009f] Commit Shell
+ 1 file changed, 26 deletions(-)
+[master 1525230] Commit Shell
+ 1 file changed, 6 insertions(+), 3 deletions(-)
+[master 1e2c6eb] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e4f3ba9] Commit Shell
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+[master 304a624] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6b7d6ba] Commit Shell
+ 1 file changed, 1 insertion(+)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 5eac40b] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master c31b1cd] Commit Shell
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+[master 80f46cd] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7dcc689] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3f49508] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e8d7152] Commit Shell
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+[master 440f176] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e1aac21] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 38578bd] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c7c32df] Commit Shell
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 8e7b66c] Commit Shell
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+[master f6c95c3] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 16759f3] Commit Shell
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+[master 848ea21] Commit Shell
+ 1 file changed, 8 insertions(+), 7 deletions(-)
+[master 97bbaa6] Commit Shell
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+[master 7f95f60] Commit Shell
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master ac14c8f] Commit Shell
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master 457128b] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a1057d4] Commit Shell
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master 6495403] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c00cad6] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 4921fbe] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master a93e77e] Commit Shell
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master 26c00ea] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master ff603ed] Commit Shell
+ 1 file changed, 18 insertions(+), 5 deletions(-)
+[master 50b911f] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master fb1ad1a] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6d8cb51] Commit Shell
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master 13ec7f4] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 767f3ec] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 9625344] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master ddfc76d] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 0bad223] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 85335d7] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master e58e3f9] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f18abe7] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c951fd8] Commit Shell
+ 2 files changed, 35 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 9c676db] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7eb3c9b] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master ef8a284] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3653903] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 7af4cb2] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 811d602] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9db9142] Commit Shell
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master 53cc1db] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2f4e42f] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1351587] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 81094be] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7ed7702] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c33b510] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1d43cef] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master efda396] Commit Shell
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 3aa14fc] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 439b984] Commit Shell
+ 1 file changed, 2 insertions(+)
+[master af0af6e] Commit Shell
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master ca4c5e7] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 3c4eb01] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 872c27b] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 7e1bd95] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ebf8987] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8194e4e] Commit Shell
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 306aa25] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master b0d3174] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5782e18] Commit Shell
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master 603b91b] Commit Shell
+ 1 file changed, 1 deletion(-)
+[master 94b666b] Commit Shell
+ 1 file changed, 3 deletions(-)
+[master 1dd239e] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a6e31c3] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8b9217d] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 6e3915b] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 81c1087] Commit Shell
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 9cae69b] Commit Shell
+ 2 files changed, 23 insertions(+), 7 deletions(-)
+[master 53c17ee] Commit Shell
+ 2 files changed, 26 insertions(+), 11 deletions(-)
+[master 40d7c29] Commit Shell
+ 1 file changed, 51 insertions(+), 8 deletions(-)
+[master 40adac1] Commit Shell
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+[master 85dd486] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 246c0c4] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 7923c7d] Commit Shell
+ 1 file changed, 25 insertions(+), 9 deletions(-)
+[master 955fe4c] Commit Shell
+ 1 file changed, 15 insertions(+), 4 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master d75e486] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2d72e27] Commit Shell
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+[master ca821e0] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 2c062fa] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a962b49] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 92fecba] Commit Shell
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+[master b0e4339] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 6c00738] Commit Shell
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master fc3518a] Commit Shell
+ 1 file changed, 7 insertions(+), 5 deletions(-)
+[master 2c4ec6f] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 5569624] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master f9d5eeb] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 843bb26] Commit Shell
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+[master ef78f8e] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 37a205e] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b6d879d] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 785548e] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e372bb0] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master de3ed7f] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 0e4f7fa] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 689b436] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 63e283c] Commit Shell
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+[master 7c79d0a] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 602ede1] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e55662f] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 09a2f04] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 798eee2] Commit Shell
+ 1 file changed, 19 insertions(+), 4 deletions(-)
+[master 604f261] Commit Shell
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+[master ac99cc2] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 6bd5565] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1a29a0d] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 4c1af8d] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4da5b72] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d5eb673] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 264ba1b] Commit Shell
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 4b2a00f] Commit Shell
+ 1 file changed, 4 deletions(-)
+[master be2200b] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master ce6193d] Commit Shell
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 39aa60f] Commit Shell
+ 1 file changed, 10 insertions(+), 2 deletions(-)
+[master b0e1e68] Commit Shell
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+[master 1b5b6fd] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master a3e4046] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b7f9d0c] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master c797f4b] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a29784d] Commit Shell
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master 6d23e98] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 375555f] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 6435708] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 2605700] Commit Shell
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master f69ad13] Commit Shell
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 7c844e6] Commit Shell
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+[master 73036ca] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ae1592b] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 02dcee4] Commit Shell
+ 1 file changed, 1 insertion(+)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 25fa667] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master fd182a1] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 55db151] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master d0afc03] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a5683e7] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f76d3fb] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 7938167] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master ee86f83] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dc2efba] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 5559f2c] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4ffdb85] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dc0e899] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 68cd8f8] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 87aeaea] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fd3fbd6] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0de1557] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master eca6291] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 275d104] Commit Shell
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+[master 6d08bd2] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1d279f6] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 35a3c2c] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1706bf0] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 7c5f307] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 92b314c] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 622ea8f] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master a374a9c] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 97fe558] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 00c7520] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master d8f940b] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 70cfe37] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1e1068e] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 46f75f0] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3ce05c4] Commit Shell
+ 2 files changed, 1 insertion(+), 3 deletions(-)
+[master 4f71b01] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a648c82] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 2e793fa] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master ed67835] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master d31beeb] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ded444a] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 80b54e5] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 1fdeb3c] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 667971b] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fa06a86] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 58c0991] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 30d100b] Commit Shell
+ 3 files changed, 32 insertions(+), 25 deletions(-)
+[master 5336571] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b6e7441] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master eb34a11] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d52b60a] Commit Shell
+ 2 files changed, 48 insertions(+), 1 deletion(-)
+[master c74d629] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 086f761] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 86bca09] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6838259] Commit Shell
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master f010b0f] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b0c14a4] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c63a0e4] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master b226338] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 6e195b3] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master d3290f5] Commit Shell
+ 1 file changed, 6 insertions(+), 8 deletions(-)
+[master 8e2f566] Commit Shell
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master 63b3cb9] Commit Shell
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 27b42a7] Commit Shell
+ 1 file changed, 5 insertions(+), 14 deletions(-)
+[master 3c115d5] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master fd53101] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 6b85c1b] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 6e1a81d] Commit Shell
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+[master d6182a1] Commit Shell
+ 2 files changed, 8 insertions(+), 7 deletions(-)
+[master f041c34] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 8427800] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master d4a3d7a] Commit Shell
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master ebf1ca7] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c955a52] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 86609aa] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a8fd8e7] Commit Shell
+ 1 file changed, 3 insertions(+)
+[master ac4fb5d] Commit Shell
+ 1 file changed, 12 insertions(+), 4 deletions(-)
+[master 69a4ab2] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 99bfcbf] Commit Shell
+ 1 file changed, 9 deletions(-)
+[master d8aecde] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4588103] Commit Shell
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master d10f9aa] Commit Shell
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+[master 6d44081] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1c74db8] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f62db91] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master cf619cf] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 55d3db5] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cb36b43] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master d895af9] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 46b7ae2] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 90afb2b] Commit Shell
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+[master 0f97298] Commit Shell
+ 1 file changed, 9 insertions(+)
+[master eec173c] Commit Shell
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	out
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 8b4a7b9] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master a2e1796] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e9ccd2b] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0b9bdf1] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 5a94f70] Commit Shell
+ 1 file changed, 34 insertions(+)
+[master 04e82cf] Commit Shell
+ 1 file changed, 4 insertions(+)
+[master fb20741] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master f8e5c70] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 781c797] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 97b8e74] Commit Shell
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+[master a972fea] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 06e82fb] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 3bf3c68] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master f2c79bb] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master e9202d6] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2b31273] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 9ae113c] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 08cc54b] Commit Shell
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+[master 566849e] Commit Shell
+ 2 files changed, 1 insertion(+), 3 deletions(-)
+[master 73c98bb] Commit Shell
+ 1 file changed, 11 insertions(+)
+[master 96016a9] Commit Shell
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master c8db6a9] Commit Shell
+ 1 file changed, 2 insertions(+)
+[master 6da31f8] Commit Shell
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+[master 4a8b9c8] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 431a549] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 0157785] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master a5a0b4e] Commit Shell
+ 1 file changed, 10 insertions(+), 9 deletions(-)
+[master 69a570a] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ce8ff98] Commit Shell
+ 1 file changed, 1 insertion(+), 15 deletions(-)
+[master ce12bab] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master d251fb9] Commit Shell
+ 2 files changed, 7 insertions(+), 3 deletions(-)
+[master 250a342] Commit Shell
+ 3 files changed, 9 insertions(+), 15 deletions(-)
+[master 94c6e04] Commit Shell
+ 1 file changed, 15 insertions(+), 8 deletions(-)
+[master 155f8b4] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master 4c3b164] Commit Shell
+ 1 file changed, 1 insertion(+)
+[master f77a2cb] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c3b8bc3] Commit Shell
+ 1 file changed, 4 insertions(+), 17 deletions(-)
+[master c2546dc] Commit Shell
+ 1 file changed, 4 insertions(+), 6 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master e186f42] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master a23d67b] Commit Shell
+ 2 files changed, 3 insertions(+), 5 deletions(-)
+[master c5f1333] Commit Shell
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+[master 10fc5a2] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b0f5f01] Commit Shell
+ 1 file changed, 7 insertions(+), 3 deletions(-)
+[master 4dc7701] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 6edc161] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 6afa44e] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d9a497c] Commit Shell
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master f49abe3] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 1bb164a] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master cd91f11] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master c8f1546] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 49fdbd5] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 63e62cc] Commit Shell
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master df28c74] Commit Shell
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master 7622981] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master de66e3d] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2c88ab8] Commit Shell
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master a698c87] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 8edf50f] Commit Shell
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+[master cd318d0] Commit Shell
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+[master 3c81487] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 8a3ccdb] Commit Shell
+ 1 file changed, 6 insertions(+), 8 deletions(-)
+[master 0b78b09] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6fad8dc] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master c212650] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c53600d] Commit Shell
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+[master 23b8ce0] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 66d80c8] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 3ff96cc] Commit Shell
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 89c9f96] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master cc30b53] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 5edf1b5] Commit Shell
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+[master 5d01421] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4aa7ada] Commit Shell
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master f5b6770] Commit Shell
+ 1 file changed, 3 insertions(+), 11 deletions(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	Makefile.kbd
+	README
+	cat_grep
+	command.o
+	ctrl-c
+	keyboard-example
+	keyboard-example.c
+	lab2-src-kbd.tar.gz
+	lex.yy.c
+	lex.yy.o
+	out
+	read-line-example
+	read-line-example.c
+	read-line.c
+	read-line.o
+	regular
+	shell
+	test-shell.tar
+	test-shell/
+	tty-raw-mode.c
+	tty-raw-mode.o
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present

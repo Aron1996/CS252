@@ -1,0 +1,14 @@
+kingh
+cs252 lab4 - HTTP-server
+
+Implemented Features
+	-4 concurrency types as stated in the Handout
+	-Simple, Complex, and Cgi tests
+	-Pick a port or have one defined
+	-Anything else on the example grading form on the handout
+
+Not Implemented
+	-None
+
+Extra Features
+	-None

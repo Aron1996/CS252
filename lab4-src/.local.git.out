@@ -1,0 +1,989 @@
+[master (root-commit) bbbbeb6] Commit HTTP Server
+ 13 files changed, 1726 insertions(+)
+ create mode 100755 daytime-client.cc
+ create mode 100644 daytime-server.cc
+ create mode 100755 hello.cc
+ create mode 100755 http-root-dir/cgi-src/change-passwd.c
+ create mode 100755 http-root-dir/cgi-src/imagemap.c
+ create mode 100755 http-root-dir/cgi-src/jj.c
+ create mode 100755 http-root-dir/cgi-src/phf.c
+ create mode 100755 http-root-dir/cgi-src/post-query.c
+ create mode 100755 http-root-dir/cgi-src/query.c
+ create mode 100755 http-root-dir/cgi-src/util.c
+ create mode 100755 http-root-dir/cgi-src/util.h
+ create mode 100644 http-server.cc
+ create mode 100755 use-dlopen.cc
+[master da29a4d] Commit HTTP Server
+ 1 file changed, 27 insertions(+)
+ create mode 100755 Makefile
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master b2d3ad8] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master 62ccdf5] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7e432c9] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master 2a61aeb] Commit HTTP Server
+ 2 files changed, 177 insertions(+), 8 deletions(-)
+ create mode 100644 http-client.cc
+ rewrite http-server.cc (81%)
+[master 177ab9e] Commit HTTP Server
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+[master 84225e4] Commit HTTP Server
+ 2 files changed, 65 insertions(+), 2 deletions(-)
+ delete mode 100644 http-client.cc
+[master 41d55ea] Commit HTTP Server
+ 1 file changed, 5 insertions(+)
+[master cd6a396] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master 53b1915] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master f776e40] Commit HTTP Server
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+[master 984b79d] Commit HTTP Server
+ 1 file changed, 6 insertions(+), 3 deletions(-)
+[master c27707a] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master eec6c4e] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master ce90b62] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master e75ac1b] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 31a6943] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 2477677] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 27a758b] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bd9f7eb] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1b63258] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 6 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master 5f3709d] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master ca8127a] Commit HTTP Server
+ 1 file changed, 2 insertions(+)
+[master 8151d09] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+[master fbad71b] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f5e7bb9] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bebb3a2] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c6c8d87] Commit HTTP Server
+ 1 file changed, 21 insertions(+), 1 deletion(-)
+[master 7815512] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 4577ecb] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master 0f344c8] Commit HTTP Server
+ 1 file changed, 5 insertions(+), 6 deletions(-)
+[master 86a514d] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+[master ef67c57] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 7250959] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master a75e269] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 413fe7f] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 34a01fa] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a2f5bd8] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master a8de354] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 61b6667] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cd77a29] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master ae64bd2] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4e277c1] Commit HTTP Server
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master cd6fbfe] Commit HTTP Server
+ 1 file changed, 4 insertions(+), 6 deletions(-)
+[master b695d60] Commit HTTP Server
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+[master cfbfac8] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 786b9da] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e95e89d] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 9907692] Commit HTTP Server
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+[master 7f96be9] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master a4ce34e] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 0333785] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e775a63] Commit HTTP Server
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master 6fac188] Commit HTTP Server
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master e3c05e7] Commit HTTP Server
+ 1 file changed, 19 insertions(+), 3 deletions(-)
+[master 0ec9eb6] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 35c6629] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 1ea1c9b] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master bf442af] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1cb02f9] Commit HTTP Server
+ 1 file changed, 3 insertions(+)
+[master 3846d51] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 09c20a0] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master df191e5] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master 7e8538b] Commit HTTP Server
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+[master 83698ba] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c9acf85] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master b64c10e] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c478425] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3638655] Commit HTTP Server
+ 1 file changed, 9 insertions(+), 37 deletions(-)
+[master fc7dff6] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 29e5c34] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 667f740] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master fc02ee3] Commit HTTP Server
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 339a67f] Commit HTTP Server
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master d6a9297] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d26c538] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master ce582ea] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 12febb6] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e194860] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6081187] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 0263630] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 09de9fc] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 70c3c81] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master f7dfb3a] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 4e6cc60] Commit HTTP Server
+ 2 files changed, 1 insertion(+), 10 deletions(-)
+[master 0bf422c] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master c923467] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 986cb27] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master d201dab] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master bf0af1f] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a132a75] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master d0e9955] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 83e4252] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master a0c1224] Commit HTTP Server
+ 1 file changed, 7 insertions(+), 9 deletions(-)
+[master 3262d42] Commit HTTP Server
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+[master 6d2e6f0] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master c1d8c76] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 4ad17d7] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 1624169] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 25a1adf] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master e26daa4] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ee382df] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 15bc708] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6baf428] Commit HTTP Server
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master 481acc4] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 998785d] Commit HTTP Server
+ 1 file changed, 29 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/http-server.cc
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/http-server.cc
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master 50ef058] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ad568b9] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e991132] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 47e41ab] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0d80b93] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 35c45f4] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 828943b] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dce9f86] Commit HTTP Server
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+[master b5b340f] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8ebd1c8] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 5165553] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d7bb6ee] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 10964b6] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f795778] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ef6ad43] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 920de7b] Commit HTTP Server
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 1cf2653] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d096eea] Commit HTTP Server
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 370175a] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/http-server.cc
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master ff68c64] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master 08e35f3] Commit HTTP Server
+ 1 file changed, 24 insertions(+)
+[master e1e7770] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 9747a7e] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 7f546af] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 1bfcdbf] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 1a7b319] Commit HTTP Server
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master 3250287] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master d578263] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8a0f913] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/http-server.cc
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master 7ec2b51] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9fe2394] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master ed03ca0] Commit HTTP Server
+ 1 file changed, 2 deletions(-)
+[master 703edd6] Commit HTTP Server
+ 1 file changed, 2 insertions(+)
+[master d14c8dc] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dedcbfb] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 6a08528] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master efcb5d4] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+[master 5c71d35] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3cbf416] Commit HTTP Server
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+[master ae8d7b7] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 416dd3e] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+[master 909aa34] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 1a81846] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master f46ca4b] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 20205f1] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 32 deletions(-)
+[master 56adf28] Commit HTTP Server
+ 1 file changed, 20 insertions(+), 7 deletions(-)
+[master 4d296ea] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 07efce2] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 30e9592] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bdb02c0] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e578104] Commit HTTP Server
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/http-server.cc
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master a8c5221] Commit HTTP Server
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master 7299032] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 774f298] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e1853a3] Commit HTTP Server
+ 1 file changed, 7 insertions(+), 11 deletions(-)
+[master 1583a84] Commit HTTP Server
+ 3 files changed, 5 insertions(+), 5 deletions(-)
+[master f1d3465] Commit HTTP Server
+ 2 files changed, 112 insertions(+), 30 deletions(-)
+[master 2d6c39e] Commit HTTP Server
+ 1 file changed, 17 insertions(+), 1 deletion(-)
+[master 99a9f7a] Commit HTTP Server
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 377d2e1] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e1ed595] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 6270aea] Commit HTTP Server
+ 1 file changed, 2 insertions(+)
+[master 7fe19ce] Commit HTTP Server
+ 1 file changed, 1 insertion(+)
+[master 54065a3] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 7387c63] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 323836f] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+[master c3e6444] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 64949a6] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0c43812] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a8c0ba4] Commit HTTP Server
+ 1 file changed, 3 insertions(+)
+[master a002a1e] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 8da4d20] Commit HTTP Server
+ 2 files changed, 14 insertions(+), 22 deletions(-)
+[master 44c8077] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 5 deletions(-)
+[master 9c8e460] Commit HTTP Server
+ 1 file changed, 19 insertions(+), 13 deletions(-)
+[master 8c5dcfa] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/http-server.cc
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master a64747d] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b594daa] Commit HTTP Server
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/http-server.cc
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master 8a2ce04] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/http-server.cc
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master 08ed7ae] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 0e16ee5] Commit HTTP Server
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+[master bb3aa0b] Commit HTTP Server
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master 5b3e5dd] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 0dcf94b] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/http-server.cc
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/http-server.cc
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master 1a68926] Commit HTTP Server
+ 8 files changed, 1341 insertions(+)
+ create mode 100755 http-root-dir/cgi-bin/change-passwd.c
+ create mode 100755 http-root-dir/cgi-bin/imagemap.c
+ create mode 100755 http-root-dir/cgi-bin/jj.c
+ create mode 100755 http-root-dir/cgi-bin/phf.c
+ create mode 100755 http-root-dir/cgi-bin/post-query.c
+ create mode 100755 http-root-dir/cgi-bin/query.c
+ create mode 100755 http-root-dir/cgi-bin/util.c
+ create mode 100755 http-root-dir/cgi-bin/util.h
+[master 3b6e73e] Commit HTTP Server
+ 8 files changed, 1341 deletions(-)
+ delete mode 100755 http-root-dir/cgi-bin/change-passwd.c
+ delete mode 100755 http-root-dir/cgi-bin/imagemap.c
+ delete mode 100755 http-root-dir/cgi-bin/jj.c
+ delete mode 100755 http-root-dir/cgi-bin/phf.c
+ delete mode 100755 http-root-dir/cgi-bin/post-query.c
+ delete mode 100755 http-root-dir/cgi-bin/query.c
+ delete mode 100755 http-root-dir/cgi-bin/util.c
+ delete mode 100755 http-root-dir/cgi-bin/util.h
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/http-server.cc
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master 30c91f8] Commit HTTP Server
+ 11 files changed, 1346 insertions(+), 5 deletions(-)
+ create mode 100755 .fr-BeWNZh/lab4-src/http-root-dir/cgi-src/change-passwd.c
+ create mode 100755 .fr-BeWNZh/lab4-src/http-root-dir/cgi-src/imagemap.c
+ create mode 100755 .fr-BeWNZh/lab4-src/http-root-dir/cgi-src/jj.c
+ create mode 100755 .fr-BeWNZh/lab4-src/http-root-dir/cgi-src/phf.c
+ create mode 100755 .fr-BeWNZh/lab4-src/http-root-dir/cgi-src/post-query.c
+ create mode 100755 .fr-BeWNZh/lab4-src/http-root-dir/cgi-src/query.c
+ create mode 100755 .fr-BeWNZh/lab4-src/http-root-dir/cgi-src/util.c
+ create mode 100755 .fr-BeWNZh/lab4-src/http-root-dir/cgi-src/util.h
+[master d0e7ce3] Commit HTTP Server
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+[master 0da144d] Commit HTTP Server
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-bin/
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/Makefile
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/imagemap.o
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/jj.o
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/phf.o
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/post-query.o
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/query.o
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/util.o
+	.fr-BeWNZh/lab4-src/http-root-dir/htdocs/
+	.fr-BeWNZh/lab4-src/http-root-dir/icons/
+	.local.git.out
+	README
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master 7ab66d9] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5a244b1] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master f6f6368] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 12ac071] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c6d24b3] Commit HTTP Server
+ 2 files changed, 4 insertions(+), 3 deletions(-)
+[master f53e5ed] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9b35e33] Commit HTTP Server
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master afbf52e] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-bin/
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/Makefile
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/imagemap.o
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/jj.o
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/phf.o
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/post-query.o
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/query.o
+	.fr-BeWNZh/lab4-src/http-root-dir/cgi-src/util.o
+	.fr-BeWNZh/lab4-src/http-root-dir/htdocs/
+	.fr-BeWNZh/lab4-src/http-root-dir/icons/
+	.local.git.out
+	README
+	daytime-client
+	daytime-client.o
+	daytime-server
+	daytime-server.o
+	http-root-dir/cgi-bin/
+	http-root-dir/cgi-src/Makefile
+	http-root-dir/htdocs/
+	http-root-dir/icons/
+	http-server
+	http-server.o
+
+nothing added to commit but untracked files present
+[master fbbc1eb] Commit HTTP Server
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ create mode 100644 http-root-dir/cgi-bin/jj.c
+[master dd63b96] Commit HTTP Server
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+[master 682863a] Commit HTTP Server
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ delete mode 100644 http-root-dir/cgi-bin/jj.c

@@ -1,0 +1,28 @@
+Himal King
+kingh@purdue.edu
+
+Works
+Lex and Yak
+Process Creation
+Execution
+File Redirection
+Pipes
+Background/Zombie
+Ctrl-c/exit
+Envrionment Vairables
+Wildcarding
+cd
+quotes
+Tilde Expantion
+isAtty
+subshells
+Escape Characters
+Anything else tested by the testall command given to us 
+
+Doesnt Work
+Line Editor and History
+
+Additional
+prompt prints out "${USER}: Current Path> "
+	Current Path will be based off of the user, if in file system of the  user ~ will be used. Else the full path will be printed 
+typing ".." into the shell will take you to the home directory
